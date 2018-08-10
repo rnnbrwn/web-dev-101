@@ -1,0 +1,19 @@
+{
+  "name": "web-dev-101",
+  "version": "1.0.0",
+  "description": "Meh, just messing about",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rnnbrwn/web-dev-101.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rnnbrwn/web-dev-101/issues"
+  },
+  "homepage": "https://github.com/rnnbrwn/web-dev-101#readme"
+}
